@@ -84,7 +84,7 @@ function Naruto() {
             zIndex: -1
           }}
         >
-          <source src="../../../images/hokage.mp4" type="video/mp4" />
+          <source src="../../assets/images/hokage.mp4" type="video/mp4" />
           Votre navigateur ne supporte pas les vidéos HTML5.
         </video>
         <div style={{ position: 'relative', zIndex: 1, color: '#fff' }}>

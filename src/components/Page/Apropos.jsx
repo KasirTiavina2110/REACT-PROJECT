@@ -110,7 +110,7 @@ function Apropos() {
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-12 text-center">
-                                <img src="../../../images/Kasir.jpg" alt="" />
+                                <img src="../../assets/images/Kasir.jpg" alt="" />
                             </div>
                             <div className="col-lg-8 text-center mt-4">
                                 <p>
@@ -167,7 +167,7 @@ function Apropos() {
                 </p>
             </div>
                         <div className="col-md-6 col-lg-4">
-                            <img src="../../../images/React.jpg" alt="" />
+                            <img src="../../assets/images/React.jpg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@ function Apropos() {
                 </p>
             </div>
                         <div className="col-md-6 col-lg-4">
-                            <img src="../../../images/code-igniter-web-development.png" alt="" />
+                            <img src="../../assets/images/code-igniter-web-development.png" alt="" />
                         </div>          
                     </div>
                 </div>
@@ -221,7 +221,7 @@ function Apropos() {
                 </p>
             </div>
             <div className="col-md-6 col-lg-4">
-                <img src="../../../images/JAVA.jpeg" alt="" />
+                <img src="../../assets/images/JAVA.jpeg" alt="" />
             </div>
                     </div>
                 </div>
