@@ -1,0 +1,26 @@
+/* styles.css */
+
+.container_formulaire {
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #F6A41C; /* Couleur de fond */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    margin-right: 10px;
+}
+
+.btn-secondary {
+    margin-right: 10px;
+}
+
+.form-check-label {
+    margin-left: 5px;
+}

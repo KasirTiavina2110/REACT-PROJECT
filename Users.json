@@ -1,0 +1,19 @@
+[
+    {
+        "nom": "Doe",
+        "prenom": "John",
+        "adresse": "123 Rue de la Liberté",
+        "numeroTelephone": "1234567890",
+        "abonnement": true,
+        "dateAbonnement": "2024-05-25"
+    },
+    {
+        "nom": "Smith",
+        "prenom": "Jane",
+        "adresse": "456 Avenue des Roses",
+        "numeroTelephone": "9876543210",
+        "abonnement": false,
+        "dateAbonnement": ""
+    }
+
+]

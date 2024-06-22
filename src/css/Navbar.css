@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Applique une largeur de 100% au Navbar */
+.navbar {
+    width: 100%;
+  }
+  
+  /* Enlève les marges horizontales du Navbar */
+  .navbar-expand-lg {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  /* Enlève les marges horizontales du contenu du Navbar */
+  .navbar-collapse {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  /* Augmente la largeur des liens de la barre de navigation */
+  .navbar-nav .nav-link {
+    padding-left: 20px; /* Augmente l'espace à gauche des liens */
+    padding-right: 20px; /* Augmente l'espace à droite des liens */
+  }
+  
