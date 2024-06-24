@@ -2,6 +2,9 @@ import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../../css/Naruto.css'; // Assurez-vous d'importer le fichier CSS
 
+// Importez la vidéo
+import hokageVideo from '../../assets/images/hokage.mp4';
+
 function Naruto() {
   const [characters, setCharacters] = useState([]);
   const [searchKey, setSearchKey] = useState("");
@@ -84,7 +87,7 @@ function Naruto() {
             zIndex: -1
           }}
         >
-          <source src="../../assets/images/hokage.mp4" type="video/mp4" />
+          <source src={hokageVideo} type="video/mp4" />
           Votre navigateur ne supporte pas les vidéos HTML5.
         </video>
         <div style={{ position: 'relative', zIndex: 1, color: '#fff' }}>
